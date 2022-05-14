@@ -1,0 +1,56 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  margin: 10px;
+  border-bottom: 2px solid black;
+}
+#welcome {
+  text-align: center;
+  padding: 10px;
+}
+.profile {
+  text-align: center;
+}
+#image-profile {
+  height: 300px;
+  margin-top: 30px;
+  border-radius: 500px;
+}
+#name-pro {
+  font-size: 30px;
+  font-family: Tahoma;
+}
+#sub-name {
+  color: gray;
+}
+
+/* Repositories */
+.presentation {
+  background: dimgray;
+  border: 1px solid black;
+  margin: 10px;
+}
+#present {
+  padding: 10px;
+  font-family: Tahoma;
+  color: white;
+  background: gray;
+}
+
+.text {
+  border: 1px solid black;
+}
+#text-present {
+  color: white;
+  padding: 5px;
+}
+#text-present2 {
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
